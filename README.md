@@ -1,2 +1,2 @@
-# PM4ML-on-premise-deploy
-On Premise Deploy for Payment Manager for Mojaloop
+# on-premise-deploy
+Code and artefacts required to deploy PM4ML in an on-premise environment
